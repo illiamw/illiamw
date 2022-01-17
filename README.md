@@ -16,7 +16,7 @@
 </details>
 
 <h4 align="left">Minhas métricas github</h4>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=illiamw&show_icons=true&langs_count=7&locale=pt-br" alt="illiamw" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=illiamw&show_icons=true&langs_count=8&locale=pt-br" alt="illiamw" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=illiamw&show_icons=true&locale=pt-br" alt="illiamw" /></p>
 
