@@ -1,6 +1,6 @@
 
 ### Eai 👋, me chamo Will!
-#### Sou estudante de computação na Universidade de São Paulo (USP) e entusiasta a Cientista de Dados.
+#### Sou estudante de engenharia de computação na Universidade de São Paulo (USP) e entusiasta a Cientista de Dados.
 
 <h4 align="left">Encontre-me:</h4>
 <p align="left">
